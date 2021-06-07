@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(47, 248, 181);
+}
+
+.container {
+    text-align: center;
+    background-color: aquamarine;
+    width: 450px;
+    height: 220px;
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 3%;
+    border: 2px solid whitesmoke;
+}
+
+#titulo {
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-bottom: 20px;
+}
+
+#inputText {
+    padding: 2px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 5px;
+    margin-left: 20px;
+}
